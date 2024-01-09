@@ -11,6 +11,6 @@
 ![2024-01-09 (1)](https://github.com/SahanAdikaram/Disage_Analysis/assets/116548418/cac774f7-806b-4d01-a01d-1dde35a4f4ba)
 
 
-<b>>>This is the page you see when click the "Overall Chart" ((In this case - Ankylosis of the elbow joint)</b>
+<b>>>This is the page you see when click the "Overall Chart" (In this case - Ankylosis of the elbow joint)</b>
 ![2024-01-09 (2)](https://github.com/SahanAdikaram/Disage_Analysis/assets/116548418/85926266-a84a-47c2-921a-a8370f19f433)
 
